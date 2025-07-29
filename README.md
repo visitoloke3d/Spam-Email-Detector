@@ -1,5 +1,4 @@
-# Spam-Email-Detector<img width="1109" height="591" alt="SED" src="https://github.com/user-attachments/assets/57c57941-785a-4c52-96a8-5cc2550ab7ed" />
-![New_Doc_2025-07-14_10 04 30_1 1](https://github.com/user-attachments/assets/b8d61bd6-1644-4dfb-b185-366ca29ce29e)
+
 
 This project aims to create a deep learning trained model to accurately distinguish between spam and legitimate SMS messages. The main objective is to analyze SMS message features and develop a software solution that automatically detects and filters out spam. Additionally, 
 Dataset Description
