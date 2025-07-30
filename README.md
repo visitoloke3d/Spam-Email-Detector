@@ -1,3 +1,5 @@
+![Screenshot_20250730-173622_1](https://github.com/user-attachments/assets/9a4daaed-97ff-4822-9bff-4d21a2e157a2)
+![OpenOrCreateNotebook](https://github.com/user-attachments/assets/5af4e0d6-50a2-4d79-b4ec-c889d5a41764)
 
 
 This project aims to create a deep learning trained model to accurately distinguish between spam and legitimate SMS messages. The main objective is to analyze SMS message features and develop a software solution that automatically detects and filters out spam. Additionally, 
